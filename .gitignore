@@ -6,6 +6,9 @@ target/
 ### IntelliJ IDEA ###
 .idea
 logs
+db-data
+init.sql
+pgadmin-data
 
 ### Eclipse ###
 .apt_generated
